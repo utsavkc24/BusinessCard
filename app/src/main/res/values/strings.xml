@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="title_of_the_shop">Biryani Mahal</string>
+    <string name="description">An Indian cuisine restaurant</string>
+    <string name="Address">Opposite petrol pump,Kankarbagh</string>
+    <string name="number">83450xxxxx</string>
+
+</resources>
